@@ -1,0 +1,9 @@
+title: FinOps 2026 Strategy
+description: Cloud Cost Management & Optimization - Complete guide with tools, POC framework, and revenue strategies
+theme: minima
+repository: irfancode/finops-2026-strategy
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+future: true
